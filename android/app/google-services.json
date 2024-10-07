@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14249756059",
+    "project_id": "bucketo-b3e72",
+    "storage_bucket": "bucketo-b3e72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14249756059:android:16cc40c2e97235cb7e0d3e",
+        "android_client_info": {
+          "package_name": "com.svntytoo.bucketo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAldCYvyRzZ_pYQB9ezrMznil_eLgvcl9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
